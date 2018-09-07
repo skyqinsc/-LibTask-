@@ -1,3 +1,18 @@
+### 此Repository主要作为协程库LibTask学习过程的记录
+
+> 如果对Golang有了解，那么一定觉得Golang的协程十分好用，而且十分高效。当然了`go func(){}()`的语法糖设计也使得Goalng协程使用起来十分方便。
+
+> LibTask库源码为c语言，并且是Golang协程的前身，于是引起了极大的兴趣
+
+
+
+
+
+
+***
+Follows is official README
+***
+
 Libtask is a simple coroutine library.  It runs on Linux (ARM, MIPS, and x86),
 FreeBSD (x86), OS X (PowerPC x86, and x86-64), and SunOS Solaris (Sparc),
 and is easy to port to other systems.
